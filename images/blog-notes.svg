@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 420" role="img" aria-labelledby="title desc">
+<title id="title">Blog notes</title><desc id="desc">An open notebook with written lines, a pen, and a small potted plant.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203328"/><stop offset="1" stop-color="#111a14"/></linearGradient></defs>
+<rect x="28" y="24" width="564" height="372" rx="30" fill="url(#bg)" stroke="#45644b" stroke-opacity=".6"/><circle cx="475" cy="90" r="54" fill="#b6f36b" opacity=".08"/>
+<path d="M118 115Q211 90 310 120V318Q213 288 118 316Z" fill="#d8e7d2"/><path d="M310 120Q410 91 503 115V316Q407 290 310 318Z" fill="#eff6e9"/><path d="M310 120V318" stroke="#7b9278" stroke-width="4"/><path d="M143 147Q210 129 282 150M143 172Q211 153 282 175M143 197Q210 179 282 200M143 222Q210 204 282 225M143 247Q210 229 282 250" stroke="#829a7e" stroke-width="4" stroke-linecap="round" opacity=".8"/><path d="M337 147Q410 126 477 145M337 172Q410 151 477 170M337 197Q410 176 477 195M337 222Q410 201 477 220M337 247Q410 226 477 245" stroke="#829a7e" stroke-width="4" stroke-linecap="round" opacity=".8"/><path d="M337 276L384 266L405 278L445 260" stroke="#75a94d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M455 94L487 76L508 111L476 130Z" fill="#b6f36b"/><path d="M487 76L495 65Q501 59 507 66L514 77L508 111Z" fill="#e3f5d8"/><path d="M477 129L470 145L476 130Z" fill="#d7e7cf"/>
+<path d="M91 292V239" stroke="#8bc85a" stroke-width="5" stroke-linecap="round"/><path d="M91 267Q61 260 64 235Q87 238 91 267M91 250Q115 226 113 210Q91 217 91 250" fill="#78b34a"/><path d="M69 292H113L108 319H74Z" fill="#d6e7d3"/><path d="M74 302H108" stroke="#8ca78d" stroke-width="3"/>
+<rect x="190" y="340" width="240" height="8" rx="4" fill="#b6f36b" opacity=".55"/>
+</svg>
